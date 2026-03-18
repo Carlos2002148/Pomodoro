@@ -22,11 +22,11 @@ Desarrollado como Proyecto de Ingeniería.
 
 ##Imagenes app
 
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/788c63c7-2b1a-43df-8376-1b02e4c5a388" />}
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/816f73aa-e132-4a8d-acea-b17cdead66c7" />
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/be836b08-e35f-453d-a18d-93235ee4d5e5" />
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/695651b2-554c-4950-881a-dbad1ec24d22" />
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/9b2a1fd7-a9cd-40b3-8cbd-ff1cf49db054" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/788c63c7-2b1a-43df-8376-1b02e4c5a388" />}
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/816f73aa-e132-4a8d-acea-b17cdead66c7" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/be836b08-e35f-453d-a18d-93235ee4d5e5" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/695651b2-554c-4950-881a-dbad1ec24d22" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/9b2a1fd7-a9cd-40b3-8cbd-ff1cf49db054" />
 
 
 
