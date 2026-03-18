@@ -1,10 +1,10 @@
-#Pomodoro App
+# Pomodoro App
 
 Una aplicación móvil de gestión de tiempo basada en la técnica Pomodoro, diseñada con una estética única de "boceto" o libreta hecha a mano. Este proyecto fue desarrollado para ayudar a organizar bloques de estudio y trabajo, manteniendo el enfoque al máximo mediante una interfaz cálida, orgánica y libre de distracciones corporativas.
 
 Desarrollado como Proyecto de Ingeniería.
 
-##Características Principales
+# Características Principales
 
 * **Tiempos Personalizables:** Configura los minutos exactos para tus bloques de trabajo (1-60 min) y descansos (1-10 min).
 * **Gestión de Ciclos:** Define cuántas repeticiones (ciclos) necesitas para tu sesión de estudio antes de terminar.
@@ -12,7 +12,7 @@ Desarrollado como Proyecto de Ingeniería.
 * **Persistencia de Estado:** Si minimizas la aplicación para contestar un mensaje, el temporizador calcula la diferencia de tiempo en segundo plano y se actualiza al volver.
 * **Resumen de Sesión:** Una pantalla final de resultados que muestra los ciclos completados y el tiempo total que lograste mantenerte enfocado.
 
-##Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 * **Framework:** Flutter
 * **Lenguaje:** Dart
